@@ -8,8 +8,10 @@ This is a repository for information about BIOSCI XXXX Evolution at the Universi
 
 ## Building websites using Github
 
-Here is information I used to build this page
+Here is information I used to build this page:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Super easy github pages walkthrough: https://pages.github.com/
+* ["Build a class, project, or other website using Jekyll + GitHub Pages" ](https://www.chronicle.com/blogs/profhacker/build-a-class-project-or-other-website-using-jekyll-github-pages/64713)
+* For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
