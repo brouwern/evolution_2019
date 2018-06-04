@@ -10,11 +10,15 @@ http://www.biology.pitt.edu/
 
 
 
-This is a repository for information about BIOSCI XXXX Evolution, taught at the University of [Pittsburgh Department of Biological Sciences](http://www.biology.pitt.edu/)
+This is a repository for information about BIOSCI 1130 Evolution, taught at the University of [Pittsburgh Department of Biological Sciences](http://www.biology.pitt.edu/)
 
 
 
 ## Online evolution resources
+
+### *Evolutionary Analysis* Textbook resources
+
+* Author's webiste for [*Evolutionary Analysis*](http://wps.pearsoned.com/bc_freeman_evol_5/239/61342/15703574.cw/index.html)
 
 ### Undergraduate level
 * HHMI's [biointeractive](https://www.hhmi.org/biointeractive) resources.
@@ -62,14 +66,18 @@ Here is information I used to build this page:
 * "Leaving the LMS to Make Course Remixing Possible"(https://www.chronicle.com/blogs/profhacker/leaving-the-lms-to-make-course-remixing-possible/62180)
 
 
-##### Intermediate
+##### Intermediate github pages
 
 * General info on markdown, Rmarkdown, etc at [ProfHacker](https://www.chronicle.com/blogs/profhacker/tag/markdown)
 * "How (and Why) to Generate a Static Website Using Jekyll, Part 1"(https://www.chronicle.com/blogs/profhacker/jekyll1/60913)
 * "Creating and Hosting a Personal Site on GitHub"(http://jmcglone.com/guides/github-pages/)
 * "Building a static website with Jekyll and GitHub Pages"(https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)
 
-##### More Advanced
+##### More Advanced github pages
 * ["Build A Blog With Jekyll And GitHub Pages"](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
 * [Custom domain names](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)
+
+### Productivity
+
+* Converting tables in [PDFs to Excel](https://pdftables.com/)
 
