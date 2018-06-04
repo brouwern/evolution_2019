@@ -6,9 +6,25 @@ This is a repository for information about BIOSCI XXXX Evolution, taught at the 
 
 
 
+## Online evolution resources
+
+* HHMI's [biointeractive](https://www.hhmi.org/biointeractive) resources.
+  * Oriented towards high school?
 
 
-## Building websites using Github
+
+## Non-Evolution resources
+
+### Computing 
+
+#### Spreadsheets
+
+* [ecologyandevolution.org: Graphing & Statistics](http://www.ecologyandevolution.org/statspage.html)
+* [Do These Numbers Mean Anything? A Beginner's Guide to Interpreting Biological and Ecological Data (pdf)](http://www.ecologyandevolution.org/statsdocs/stats.pdf) by Rhine Singleton, evologyandevolution.org
+* [Spreadsheet tutorials](https://www.hhmi.org/biointeractive/spreadsheet-data-analysis-tutorials) at Howard Hughes Medical Institute (HHMI) [BioInteractive](https://www.hhmi.org/biointeractive) portal
+  * [Buildings histograms](https://www.hhmi.org/biointeractive/spreadsheet-tutorial-5-histogram) using (Daphne major finch?) beak depths
+
+#### Building websites using Github & Markdown
 
 Here is information I used to build this page:
 
@@ -27,6 +43,7 @@ Here is information I used to build this page:
 
 ### Intermediate
 
+* General info on markdown, Rmarkdown, etc at [ProfHacker](https://www.chronicle.com/blogs/profhacker/tag/markdown)
 * "How (and Why) to Generate a Static Website Using Jekyll, Part 1"(https://www.chronicle.com/blogs/profhacker/jekyll1/60913)
 * "Creating and Hosting a Personal Site on GitHub"(http://jmcglone.com/guides/github-pages/)
 * "Building a static website with Jekyll and GitHub Pages"(https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)
