@@ -20,13 +20,23 @@ This is a repository for information about BIOSCI 1130 Evolution, taught at the 
 
 * Author's website for [*Evolutionary Analysis*](http://wps.pearsoned.com/bc_freeman_evol_5/239/61342/15703574.cw/index.html)
 
+### Phyolgenetic trees
+
+* [tree-thinking.org](http://www.tree-thinking.org/)
+* The Comparative Method, Hypothesis Testing & Phylogenetic Analysis – An Introductory Laboratory [Singer et al 2001](http://www.bioone.org/doi/abs/10.1662/0002-7685%282001%29063%5B0518%3ATCMHTP%5D2.0.CO%3B2)
+* "Introduction to Phylogeny: How to Interpret Cladograms"[website & online quiz](http://biology.fullerton.edu/biol402/phylolab_new.html[online lines plant]
+
+
+* "MOLECULAR SEQUENCES & PRIMATE EVOLUTION: Amino Acid Differences in Beta Hemoglobins in Primates" [online lines plan](http://www.indiana.edu/~ensiweb/lessons/mol.prim.html)
+
 ### Undergraduate level
 * HHMI's [biointeractive](https://www.hhmi.org/biointeractive) resources.
 * [Spreadsheet Exercises in Ecology & Evolution](http://www.uvm.edu/rsenr/vtcfwru/spreadsheets/?Page=ecologyevolution/ecology_evolution.htm)
   
 ### Graduate level
 * Readings and handouts for [Curt Lively's graduate Evolutionary Ecology course](http://www.indiana.edu/~curtweb/Teaching/L567.html) "Evolutionary Ecology (L567), Indiana University"
- * Many pdfs posted for classic papers in evolutionary ecology
+  * Many pdfs posted for classic papers in evolutionary ecology
+* Phylogenetic comparative methods[Graduate Course-Morton Arboretum](http://systematics.mortonarb.org/lab/teaching/pcm35300.readings.html)
 
 
 
