@@ -16,14 +16,32 @@ This is a repository for information about BIOSCI 1130 Evolution, taught at the 
 
 ## Online evolution resources
 
+### Biology & Science Education Journals
+
+https://ucdber.faculty.ucdavis.edu/biology-education-research-journals/
+
+* [American Biology Teacher](http://www.nabt.org/websites/institution/index.php?p=26)
+* [Bioscene: Journal of College Biology Teaching](http://www.acube.org/bioscene/)
+* [Bioscience Education](http://www.tandfonline.com/loi/rhep19#.V6LEdJMrLEY)
+* [CBE – Life Sciences Education](http://www.lifescied.org/)
+* [Journal of Microbiology & Biology Education](http://journals.sfu.ca/asm/index.php/jmbe)
+* [Journal of Biological Education](http://www.tandfonline.com/loi/rjbe20)
+* [Journal of College Science Teaching](http://www.nsta.org/college/)
+
+
 ### *Evolutionary Analysis* Textbook resources
 
 * Author's website for [*Evolutionary Analysis*](http://wps.pearsoned.com/bc_freeman_evol_5/239/61342/15703574.cw/index.html)
 
 
 ### Web/mobile applications
-
+* [App](https://www.geogebra.org/m/pAZXe5rg) to represent Hardy-Weinberg Equilibrium graphically/geometrically
 * timetree.org: visualize divergence times and more [web/iphone app](http://www.timetree.org/)
+
+### Hardy-Weinberg Equilibrium
+
+* K-state HW equilibrium [BIO 198 website](https://www.k-state.edu/parasitology/biology198/hardwein.html)
+* [App](https://www.geogebra.org/m/pAZXe5rg) to represent Hardy-Weinberg Equilibrium graphically/geometrically
 
 ### Phyolgenetic trees
 
