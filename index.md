@@ -16,9 +16,12 @@ This is a repository for information about BIOSCI 1130 Evolution, taught at the 
 
 ## Online evolution resources
 
+###
+ https://evolution.berkeley.edu/evolibrary/teach/active_learning.php
+
 ### Biology & Science Education Journals
 
-https://ucdber.faculty.ucdavis.edu/biology-education-research-journals/
+* "Active-learning slides for undergraduate evolution instruction" [website](https://ucdber.faculty.ucdavis.edu/biology-education-research-journals/)
 
 * [American Biology Teacher](http://www.nabt.org/websites/institution/index.php?p=26)
 * [Bioscene: Journal of College Biology Teaching](http://www.acube.org/bioscene/)
@@ -30,7 +33,6 @@ https://ucdber.faculty.ucdavis.edu/biology-education-research-journals/
 
 
 ### *Evolutionary Analysis* Textbook resources
-
 * Author's website for [*Evolutionary Analysis*](http://wps.pearsoned.com/bc_freeman_evol_5/239/61342/15703574.cw/index.html)
 
 
