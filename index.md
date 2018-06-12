@@ -13,6 +13,11 @@ http://www.biology.pitt.edu/
 This is a repository for information about BIOSCI 1130 Evolution, taught at the University of [Pittsburgh Department of Biological Sciences](http://www.biology.pitt.edu/)
 
 
+## INteresting papers
+
+* Grant, P.  2003.  Reconstructing the evolution of birds on islands: 100 years of research.  Oikos.  [open access](https://www.jstor.org/stable/3547157?casa_token=vrlpImu7D0wAAAAA:57MhbrEgQq1_XYQFtDOXvA0VZRRhb3OgyNdM4Rd_R5GqfMwSTTPyWnp3f7aU7B6_g33ZKmp-PG0TgRXrmpBycNo_bH6IqQoSIZ-NBmey9w7YheL1rBqI&seq=1#page_scan_tab_contents)
+* Grant and Grant 2003.  What Darwin's Finches Can Teach Us about the Evolutionary Origin and Regulation of Biodiversity.  BioScience.[open access](https://academic.oup.com/bioscience/article/53/10/965/254944)
+* Grant and Grant 2002.  Adaptive Radiation of Darwin's Finches: Recent data help explain how this famous group of Galápagos birds evolved, although gaps in our understanding remain.  American Scientist.  [open access](https://www.jstor.org/stable/27857627?casa_token=i9tTXo1GQMcAAAAA:XSoJbEmtypCijdHxQbADU3guFoAZ78yIEHNKYNWixfAMCHN6sdsbuTVgKSMOrpaYGrsZKPu2yHTgvCXlY4Ujz7NLjLHUmjTq9NL8PQidF5D13R8MhZv7&seq=1#page_scan_tab_contents)
 
 ## Online evolution resources
 
