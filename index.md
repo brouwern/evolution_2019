@@ -6,9 +6,7 @@ University of Pittsburgh
 Pittsburgh, PA 15260  USA
 http://www.biology.pitt.edu/
 
-
-
-This is a repository for information about BIOSCI 1130 Evolution, taught at the University of [Pittsburgh Department of Biological Sciences](http://www.biology.pitt.edu/)
+This is a repository for information about BIOSCI 1130 Evolution, taught at the University of [Pittsburgh Department of Biological Sciences](http://www.biology.pitt.edu/) by Dr. Nathan Brouwer.
 
 
 ## INteresting papers
