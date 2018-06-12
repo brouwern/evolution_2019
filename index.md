@@ -1,10 +1,10 @@
 ## Welcome to [Evolution 2019](https://brouwern.github.io/evolution_2019/) at the University of Pittsburgh 
 
-Department of Biological Sciences
-University of Pittsburgh
-4249 Fifth Avenue
-Pittsburgh, PA 15260  USA
-http://www.biology.pitt.edu/
+Department of Biological Sciences \n
+University of Pittsburgh \n
+4249 Fifth Avenue \n 
+Pittsburgh, PA 15260  USA \n
+http://www.biology.pitt.edu/ \n
 
 This is a repository for information about BIOSCI 1130 Evolution, taught at the University of [Pittsburgh Department of Biological Sciences](http://www.biology.pitt.edu/) by Dr. Nathan Brouwer.
 
