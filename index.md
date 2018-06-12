@@ -1,12 +1,4 @@
-## Welcome to Evolution 2019
-
-[link](evolution_2019/test.md) 
-
-https://github.com/brouwern/evolution_2019/blob/master/test.md
-
-asdlkfjaldskjdfslkjadsf
-
-https://brouwern.github.io/evolution_2019/
+## Welcome to [Evolution 2019](https://brouwern.github.io/evolution_2019/) at the University of Pittsburgh 
 
 Department of Biological Sciences
 University of Pittsburgh
